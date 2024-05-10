@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "618461569072",
+    "firebase_url": "https://familytreeapp-6bb53-default-rtdb.firebaseio.com",
+    "project_id": "familytreeapp-6bb53",
+    "storage_bucket": "familytreeapp-6bb53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618461569072:android:4f92e9743d1878454d8df5",
+        "android_client_info": {
+          "package_name": "com.example.firebasefamilt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFz1dR-xGSR2FzgAnF7pqEmxxE3HuGtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
